@@ -8,27 +8,31 @@
 # - status
 #-----------------------------------------------------------------------------
 
+import os
 import requests
 import pandas as pd
+from dotenv import load_dotenv
 
-print("Starting test...")
+load_dotenv()
 
-API_KEY = "REDACTED"
+API_KEY = os.getenv("CITO_API_KEY")
+
 
 url = "https://api.citoapi.com/api/v1/fortnite/tournaments/upcoming"
 
 headers = {
     "x-api-key": API_KEY
-  }
+}
 
 response = requests.get(url, headers=headers)
 
 data = response.json()
 
-print(type(data))
+if not data.get("success"):
+    print("API error:", data)
+    exit()
 
-events = data["data"]
-
+events = data['data']
 events_list = events["epic"]
 
 rows = []
