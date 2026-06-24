@@ -1,0 +1,6 @@
+report_id,event_id,reported_player_name,reported_player_id,reporter_id,report_reason,match_number,timestamp
+1,epicgames_S41_FNCSDivisionalCup_Division1_BR,Trashay,082db36a2afe47498d0467ed93c8d4f8,AntonioPy,test 101,2,2026-06-16
+2,epicgames_S41_FNCSDivisionalCup_Division1_BR,trash ay,f410a5d05be94308a63cec10a2809946,Miguelbastos,testing 102,5,2026-06-16
+3,epicgames_S41_FNCSDivisionalCup_Division1_BR,trash ay,f410a5d05be94308a63cec10a2809946,Ricardinho,testing 103,6,2026-06-16
+4,epicgames_S41_FNCSDivisionalCup_Division1_BR,Rafael-Zh,97e4ffb2f284416c8470f1806612c0f1,Damian,Testing 104,4,2026-06-16
+5,epicgames_S41_MobileTestCupAll_NAW,goncalogon2020,9732d84bd88742a2b7e0ab848734d741,Sandra ,Sandra testing,3,2026-06-19

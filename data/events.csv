@@ -1,0 +1,301 @@
+event_id,event_name,region,start_time,end_time,status
+epicgames_S41_MobileTestCupAll_NAW,Mobile Test Cup,NAW,2026-06-19T00:00:00.000Z,2026-06-19T01:15:00.000Z,live
+epicgames_S41_PerformanceEvaluation_NAC,Fortnite Performance Evaluation,NAC,2026-06-19T02:00:00.000Z,2026-06-19T04:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_OCE,Mobile Reload (Mini Venture) Victory Cup,OCE,2026-06-19T07:00:00.000Z,2026-06-19T08:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_OCE,Reload Elite Series Play-Ins,OCE,2026-06-19T08:00:00.000Z,2026-06-19T10:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_OCE,Duos Ranked Cup (Zero Build),OCE,2026-06-19T08:00:00.000Z,2026-06-19T11:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_ASIA,Mobile Reload (Mini Venture) Victory Cup,ASIA,2026-06-19T08:00:00.000Z,2026-06-19T09:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_ASIA,Reload Elite Series Play-Ins,ASIA,2026-06-19T09:00:00.000Z,2026-06-19T11:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_ASIA,Duos Ranked Cup (Zero Build),ASIA,2026-06-19T09:00:00.000Z,2026-06-19T12:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_ME,Mobile Reload (Mini Venture) Victory Cup,ME,2026-06-19T14:00:00.000Z,2026-06-19T15:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_ME,Reload Elite Series Play-Ins,ME,2026-06-19T15:00:00.000Z,2026-06-19T17:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_ME,Duos Ranked Cup (Zero Build),ME,2026-06-19T15:00:00.000Z,2026-06-19T18:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_EU,Mobile Reload (Mini Venture) Victory Cup,EU,2026-06-19T16:00:00.000Z,2026-06-19T17:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_EU,Reload Elite Series Play-Ins,EU,2026-06-19T17:00:00.000Z,2026-06-19T19:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_EU,Duos Ranked Cup (Zero Build),EU,2026-06-19T17:00:00.000Z,2026-06-19T20:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_BR,Mobile Reload (Mini Venture) Victory Cup,BR,2026-06-19T20:00:00.000Z,2026-06-19T21:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_BR,Reload Elite Series Play-Ins,BR,2026-06-19T21:00:00.000Z,2026-06-19T23:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_BR,Duos Ranked Cup (Zero Build),BR,2026-06-19T21:00:00.000Z,2026-06-20T00:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_NAC,Mobile Reload (Mini Venture) Victory Cup,NAC,2026-06-19T22:00:00.000Z,2026-06-19T23:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_NAC,Reload Elite Series Play-Ins,NAC,2026-06-19T23:00:00.000Z,2026-06-20T01:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_NAC,Duos Ranked Cup (Zero Build),NAC,2026-06-19T23:00:00.000Z,2026-06-20T02:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_NAW,Mobile Reload (Mini Venture) Victory Cup,NAW,2026-06-20T00:00:00.000Z,2026-06-20T01:15:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_NAW,Reload Elite Series Play-Ins,NAW,2026-06-20T01:00:00.000Z,2026-06-20T03:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_NAW,Duos Ranked Cup (Zero Build),NAW,2026-06-20T01:00:00.000Z,2026-06-20T04:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_OCE,Solo Victory Cup,OCE,2026-06-20T03:00:00.000Z,2026-06-20T05:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_ASIA,Solo Victory Cup,ASIA,2026-06-20T04:00:00.000Z,2026-06-20T06:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_OCE,Solo Victory Cup,OCE,2026-06-20T06:00:00.000Z,2026-06-20T07:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_OCE,Mobile Series Heats,OCE,2026-06-20T06:00:00.000Z,2026-06-20T07:20:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_OCE,Mobile Series Heats,OCE,2026-06-20T06:00:01.000Z,2026-06-20T07:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_OCE,Mobile Series Heats,OCE,2026-06-20T06:06:02.000Z,2026-06-20T07:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_OCE,Mobile Series Heats,OCE,2026-06-20T06:06:03.000Z,2026-06-20T07:26:03.000Z,upcoming
+epicgames_S41_SoloVictoryCup_ASIA,Solo Victory Cup,ASIA,2026-06-20T07:00:00.000Z,2026-06-20T08:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_OCE,FNCS Division 1,OCE,2026-06-20T08:00:00.000Z,2026-06-20T10:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_OCE,Duos Ranked Cup (Reload),OCE,2026-06-20T08:00:00.000Z,2026-06-20T11:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_ASIA,Mobile Series Heats,ASIA,2026-06-20T08:00:00.000Z,2026-06-20T09:20:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_ASIA,Mobile Series Heats,ASIA,2026-06-20T08:00:01.000Z,2026-06-20T09:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_ASIA,Mobile Series Heats,ASIA,2026-06-20T08:06:02.000Z,2026-06-20T09:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_ASIA,Mobile Series Heats,ASIA,2026-06-20T08:06:03.000Z,2026-06-20T09:26:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ASIA,FNCS Division 1,ASIA,2026-06-20T09:00:00.000Z,2026-06-20T11:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_ASIA,Duos Ranked Cup (Reload),ASIA,2026-06-20T09:00:00.000Z,2026-06-20T12:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_ME,Solo Victory Cup,ME,2026-06-20T10:00:00.000Z,2026-06-20T12:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_EU,Solo Victory Cup,EU,2026-06-20T12:00:00.000Z,2026-06-20T14:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_ME,Solo Victory Cup,ME,2026-06-20T13:00:00.000Z,2026-06-20T14:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_ME,Mobile Series Heats,ME,2026-06-20T14:00:00.000Z,2026-06-20T15:20:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_ME,Mobile Series Heats,ME,2026-06-20T14:00:01.000Z,2026-06-20T15:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_ME,Mobile Series Heats,ME,2026-06-20T14:06:02.000Z,2026-06-20T15:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_ME,Mobile Series Heats,ME,2026-06-20T14:06:03.000Z,2026-06-20T15:26:03.000Z,upcoming
+epicgames_S41_SoloVictoryCup_EU,Solo Victory Cup,EU,2026-06-20T15:00:00.000Z,2026-06-20T16:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ME,FNCS Division 1,ME,2026-06-20T15:00:00.000Z,2026-06-20T17:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_ME,Duos Ranked Cup (Reload),ME,2026-06-20T15:00:00.000Z,2026-06-20T18:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_EU,Mobile Series Heats,EU,2026-06-20T16:00:00.000Z,2026-06-20T17:20:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_BR,Solo Victory Cup,BR,2026-06-20T16:00:00.000Z,2026-06-20T18:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_EU,Mobile Series Heats,EU,2026-06-20T16:00:01.000Z,2026-06-20T17:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_EU,Mobile Series Heats,EU,2026-06-20T16:06:02.000Z,2026-06-20T17:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_EU,Mobile Series Heats,EU,2026-06-20T16:06:03.000Z,2026-06-20T17:26:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_EU,FNCS Division 1,EU,2026-06-20T17:00:00.000Z,2026-06-20T19:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_EU,Duos Ranked Cup (Reload),EU,2026-06-20T17:00:00.000Z,2026-06-20T20:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_NAC,Solo Victory Cup,NAC,2026-06-20T18:00:00.000Z,2026-06-20T20:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_BR,Solo Victory Cup,BR,2026-06-20T19:00:00.000Z,2026-06-20T20:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_NAW,Solo Victory Cup,NAW,2026-06-20T20:00:00.000Z,2026-06-20T22:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_BR,Mobile Series Heats,BR,2026-06-20T20:00:00.000Z,2026-06-20T21:20:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_BR,Mobile Series Heats,BR,2026-06-20T20:00:01.000Z,2026-06-20T21:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_BR,Mobile Series Heats,BR,2026-06-20T20:06:02.000Z,2026-06-20T21:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_BR,Mobile Series Heats,BR,2026-06-20T20:06:03.000Z,2026-06-20T21:26:03.000Z,upcoming
+epicgames_S41_SoloVictoryCup_NAC,Solo Victory Cup,NAC,2026-06-20T21:00:00.000Z,2026-06-20T22:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_BR,FNCS Division 1,BR,2026-06-20T21:00:00.000Z,2026-06-20T23:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_BR,Duos Ranked Cup (Reload),BR,2026-06-20T21:00:00.000Z,2026-06-21T00:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_NAC,Mobile Series Heats,NAC,2026-06-20T22:00:00.000Z,2026-06-20T23:20:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_NAC,Mobile Series Heats,NAC,2026-06-20T22:00:01.000Z,2026-06-20T23:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_NAC,Mobile Series Heats,NAC,2026-06-20T22:06:02.000Z,2026-06-20T23:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_NAC,Mobile Series Heats,NAC,2026-06-20T22:06:03.000Z,2026-06-20T23:26:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAC,FNCS Division 1,NAC,2026-06-20T23:00:00.000Z,2026-06-21T01:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_NAC,Duos Ranked Cup (Reload),NAC,2026-06-20T23:00:00.000Z,2026-06-21T02:00:00.000Z,upcoming
+epicgames_S41_SoloVictoryCup_NAW,Solo Victory Cup,NAW,2026-06-20T23:00:00.000Z,2026-06-21T00:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll1_NAW,Mobile Series Heats,NAW,2026-06-21T00:00:00.000Z,2026-06-21T01:20:00.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll2_NAW,Mobile Series Heats,NAW,2026-06-21T00:00:01.000Z,2026-06-21T01:20:01.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll3_NAW,Mobile Series Heats,NAW,2026-06-21T00:06:02.000Z,2026-06-21T01:26:02.000Z,upcoming
+epicgames_S41_MobileSeriesHeatAll4_NAW,Mobile Series Heats,NAW,2026-06-21T00:06:03.000Z,2026-06-21T01:26:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAW,FNCS Division 1,NAW,2026-06-21T01:00:00.000Z,2026-06-21T03:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_NAW,Duos Ranked Cup (Reload),NAW,2026-06-21T01:00:00.000Z,2026-06-21T04:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_OCE,Mobile Reload (Mini Venture) Victory Cup,OCE,2026-06-21T07:00:00.000Z,2026-06-21T08:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_OCE,Reload Elite Series Play-Ins,OCE,2026-06-21T08:00:00.000Z,2026-06-21T10:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_OCE,Duos Ranked Cup (Battle Royale),OCE,2026-06-21T08:00:00.000Z,2026-06-21T11:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_ASIA,Mobile Reload (Mini Venture) Victory Cup,ASIA,2026-06-21T08:00:00.000Z,2026-06-21T09:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_ASIA,Reload Elite Series Play-Ins,ASIA,2026-06-21T09:00:00.000Z,2026-06-21T11:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_ASIA,Duos Ranked Cup (Battle Royale),ASIA,2026-06-21T09:00:00.000Z,2026-06-21T12:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_ME,Mobile Reload (Mini Venture) Victory Cup,ME,2026-06-21T14:00:00.000Z,2026-06-21T15:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_ME,Reload Elite Series Play-Ins,ME,2026-06-21T15:00:00.000Z,2026-06-21T17:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_ME,Duos Ranked Cup (Battle Royale),ME,2026-06-21T15:00:00.000Z,2026-06-21T18:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_EU,Mobile Reload (Mini Venture) Victory Cup,EU,2026-06-21T16:00:00.000Z,2026-06-21T17:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_EU,Reload Elite Series Play-Ins,EU,2026-06-21T17:00:00.000Z,2026-06-21T19:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_EU,Duos Ranked Cup (Battle Royale),EU,2026-06-21T17:00:00.000Z,2026-06-21T20:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_BR,Mobile Reload (Mini Venture) Victory Cup,BR,2026-06-21T20:00:00.000Z,2026-06-21T21:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_BR,Reload Elite Series Play-Ins,BR,2026-06-21T21:00:00.000Z,2026-06-21T23:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_BR,Duos Ranked Cup (Battle Royale),BR,2026-06-21T21:00:00.000Z,2026-06-22T00:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_NAC,Mobile Reload (Mini Venture) Victory Cup,NAC,2026-06-21T22:00:00.000Z,2026-06-21T23:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_NAC,Reload Elite Series Play-Ins,NAC,2026-06-21T23:00:00.000Z,2026-06-22T01:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_NAC,Duos Ranked Cup (Battle Royale),NAC,2026-06-21T23:00:00.000Z,2026-06-22T02:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_ReloadminiVAll_NAW,Mobile Reload (Mini Venture) Victory Cup,NAW,2026-06-22T00:00:00.000Z,2026-06-22T01:10:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4PlayIn_NAW,Reload Elite Series Play-Ins,NAW,2026-06-22T01:00:00.000Z,2026-06-22T03:30:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_NAW,Duos Ranked Cup (Battle Royale),NAW,2026-06-22T01:00:00.000Z,2026-06-22T04:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_OCE,FNCS Division 1,OCE,2026-06-22T08:00:00.000Z,2026-06-22T11:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_OCE,Solo Ranked Cup (Battle Royale),OCE,2026-06-22T08:00:00.000Z,2026-06-22T11:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_OCE,FNCS Division 2,OCE,2026-06-22T08:00:01.000Z,2026-06-22T11:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_OCE,FNCS Division 3,OCE,2026-06-22T08:00:02.000Z,2026-06-22T11:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ASIA,FNCS Division 1,ASIA,2026-06-22T09:00:00.000Z,2026-06-22T12:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_ASIA,Solo Ranked Cup (Battle Royale),ASIA,2026-06-22T09:00:00.000Z,2026-06-22T12:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_ASIA,FNCS Division 2,ASIA,2026-06-22T09:00:01.000Z,2026-06-22T12:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_ASIA,FNCS Division 3,ASIA,2026-06-22T09:00:02.000Z,2026-06-22T12:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ME,FNCS Division 1,ME,2026-06-22T15:00:00.000Z,2026-06-22T18:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_ME,Solo Ranked Cup (Battle Royale),ME,2026-06-22T15:00:00.000Z,2026-06-22T18:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_ME,FNCS Division 2,ME,2026-06-22T15:00:01.000Z,2026-06-22T18:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_ME,FNCS Division 3,ME,2026-06-22T15:00:02.000Z,2026-06-22T18:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_EU,FNCS Division 1,EU,2026-06-22T17:00:00.000Z,2026-06-22T20:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_EU,Solo Ranked Cup (Battle Royale),EU,2026-06-22T17:00:00.000Z,2026-06-22T20:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_EU,FNCS Division 2,EU,2026-06-22T17:00:01.000Z,2026-06-22T20:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_EU,FNCS Division 3,EU,2026-06-22T17:00:02.000Z,2026-06-22T20:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division4_EU,FNCS Division 4,EU,2026-06-22T17:00:03.000Z,2026-06-22T20:00:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division5_EU,FNCS Division 5,EU,2026-06-22T17:00:04.000Z,2026-06-22T20:00:04.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_BR,FNCS Division 1,BR,2026-06-22T21:00:00.000Z,2026-06-23T00:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_BR,Solo Ranked Cup (Battle Royale),BR,2026-06-22T21:00:00.000Z,2026-06-23T00:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_BR,FNCS Division 2,BR,2026-06-22T21:00:01.000Z,2026-06-23T00:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_BR,FNCS Division 3,BR,2026-06-22T21:00:02.000Z,2026-06-23T00:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAC,FNCS Division 1,NAC,2026-06-22T23:00:00.000Z,2026-06-23T02:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_NAC,Solo Ranked Cup (Battle Royale),NAC,2026-06-22T23:00:00.000Z,2026-06-23T02:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_NAC,FNCS Division 2,NAC,2026-06-22T23:00:01.000Z,2026-06-23T02:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_NAC,FNCS Division 3,NAC,2026-06-22T23:00:02.000Z,2026-06-23T02:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division4_NAC,FNCS Division 4,NAC,2026-06-22T23:00:03.000Z,2026-06-23T02:00:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division5_NAC,FNCS Division 5,NAC,2026-06-22T23:00:04.000Z,2026-06-23T02:00:04.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAW,FNCS Division 1,NAW,2026-06-23T01:00:00.000Z,2026-06-23T04:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_NAW,Solo Ranked Cup (Battle Royale),NAW,2026-06-23T01:00:00.000Z,2026-06-23T04:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_NAW,FNCS Division 2,NAW,2026-06-23T01:00:01.000Z,2026-06-23T04:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_NAW,FNCS Division 3,NAW,2026-06-23T01:00:02.000Z,2026-06-23T04:00:02.000Z,upcoming
+epicgames_S41_MobileTestCupAll_OCE,Mobile Test Cup,OCE,2026-06-23T07:00:00.000Z,2026-06-23T08:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_OCE,FNCS Division 1,OCE,2026-06-23T08:00:00.000Z,2026-06-23T11:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_OCE,Solo Ranked Cup (Reload),OCE,2026-06-23T08:00:00.000Z,2026-06-23T11:00:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_ASIA,Mobile Test Cup,ASIA,2026-06-23T08:00:00.000Z,2026-06-23T09:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_OCE,FNCS Division 2,OCE,2026-06-23T08:00:01.000Z,2026-06-23T11:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_OCE,FNCS Division 3,OCE,2026-06-23T08:00:02.000Z,2026-06-23T11:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ASIA,FNCS Division 1,ASIA,2026-06-23T09:00:00.000Z,2026-06-23T12:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_ASIA,Solo Ranked Cup (Reload),ASIA,2026-06-23T09:00:00.000Z,2026-06-23T12:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_ASIA,FNCS Division 2,ASIA,2026-06-23T09:00:01.000Z,2026-06-23T12:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_ASIA,FNCS Division 3,ASIA,2026-06-23T09:00:02.000Z,2026-06-23T12:00:02.000Z,upcoming
+epicgames_S41_MobileTestCupAll_ME,Mobile Test Cup,ME,2026-06-23T14:00:00.000Z,2026-06-23T15:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ME,FNCS Division 1,ME,2026-06-23T15:00:00.000Z,2026-06-23T18:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_ME,Solo Ranked Cup (Reload),ME,2026-06-23T15:00:00.000Z,2026-06-23T18:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_ME,FNCS Division 2,ME,2026-06-23T15:00:01.000Z,2026-06-23T18:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_ME,FNCS Division 3,ME,2026-06-23T15:00:02.000Z,2026-06-23T18:00:02.000Z,upcoming
+epicgames_S41_MobileTestCupAll_EU,Mobile Test Cup,EU,2026-06-23T16:00:00.000Z,2026-06-23T17:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_EU,FNCS Division 1,EU,2026-06-23T17:00:00.000Z,2026-06-23T20:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_EU,Solo Ranked Cup (Reload),EU,2026-06-23T17:00:00.000Z,2026-06-23T20:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_EU,FNCS Division 2,EU,2026-06-23T17:00:01.000Z,2026-06-23T20:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_EU,FNCS Division 3,EU,2026-06-23T17:00:02.000Z,2026-06-23T20:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division4_EU,FNCS Division 4,EU,2026-06-23T17:00:03.000Z,2026-06-23T20:00:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division5_EU,FNCS Division 5,EU,2026-06-23T17:00:04.000Z,2026-06-23T20:00:04.000Z,upcoming
+epicgames_S41_MobileTestCupAll_BR,Mobile Test Cup,BR,2026-06-23T20:00:00.000Z,2026-06-23T21:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_BR,FNCS Division 1,BR,2026-06-23T21:00:00.000Z,2026-06-24T00:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_BR,Solo Ranked Cup (Reload),BR,2026-06-23T21:00:00.000Z,2026-06-24T00:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_BR,FNCS Division 2,BR,2026-06-23T21:00:01.000Z,2026-06-24T00:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_BR,FNCS Division 3,BR,2026-06-23T21:00:02.000Z,2026-06-24T00:00:02.000Z,upcoming
+epicgames_S41_MobileTestCupAll_NAC,Mobile Test Cup,NAC,2026-06-23T22:00:00.000Z,2026-06-23T23:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAC,FNCS Division 1,NAC,2026-06-23T23:00:00.000Z,2026-06-24T02:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_NAC,Solo Ranked Cup (Reload),NAC,2026-06-23T23:00:00.000Z,2026-06-24T02:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_NAC,FNCS Division 2,NAC,2026-06-23T23:00:01.000Z,2026-06-24T02:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_NAC,FNCS Division 3,NAC,2026-06-23T23:00:02.000Z,2026-06-24T02:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division4_NAC,FNCS Division 4,NAC,2026-06-23T23:00:03.000Z,2026-06-24T02:00:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division5_NAC,FNCS Division 5,NAC,2026-06-23T23:00:04.000Z,2026-06-24T02:00:04.000Z,upcoming
+epicgames_S41_MobileTestCupAll_NAW,Mobile Test Cup,NAW,2026-06-24T00:00:00.000Z,2026-06-24T01:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAW,FNCS Division 1,NAW,2026-06-24T01:00:00.000Z,2026-06-24T04:00:00.000Z,upcoming
+epicgames_S41_RankedCupSoloReload_NAW,Solo Ranked Cup (Reload),NAW,2026-06-24T01:00:00.000Z,2026-06-24T04:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_NAW,FNCS Division 2,NAW,2026-06-24T01:00:01.000Z,2026-06-24T04:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_NAW,FNCS Division 3,NAW,2026-06-24T01:00:02.000Z,2026-06-24T04:00:02.000Z,upcoming
+epicgames_S41_MobileTestCupAll_OCE,Mobile Test Cup,OCE,2026-06-25T07:00:00.000Z,2026-06-25T08:15:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_ASIA,Mobile Test Cup,ASIA,2026-06-25T08:00:00.000Z,2026-06-25T09:15:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_ME,Mobile Test Cup,ME,2026-06-25T14:00:00.000Z,2026-06-25T15:15:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_EU,Mobile Test Cup,EU,2026-06-25T16:00:00.000Z,2026-06-25T17:15:00.000Z,upcoming
+epicgames_S41_PerformanceEvaluation_EU,Fortnite Performance Evaluation,EU,2026-06-25T16:00:00.000Z,2026-06-25T18:00:00.000Z,upcoming
+epicgames_S41_PerformanceEvaluation_EU,Fortnite Performance Evaluation,EU,2026-06-25T19:00:00.000Z,2026-06-25T21:00:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_BR,Mobile Test Cup,BR,2026-06-25T20:00:00.000Z,2026-06-25T21:15:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_NAC,Mobile Test Cup,NAC,2026-06-25T22:00:00.000Z,2026-06-25T23:15:00.000Z,upcoming
+epicgames_S41_PerformanceEvaluation_NAC,Fortnite Performance Evaluation,NAC,2026-06-25T23:00:00.000Z,2026-06-26T01:00:00.000Z,upcoming
+epicgames_S41_MobileTestCupAll_NAW,Mobile Test Cup,NAW,2026-06-26T00:00:00.000Z,2026-06-26T01:15:00.000Z,upcoming
+epicgames_S41_PerformanceEvaluation_NAC,Fortnite Performance Evaluation,NAC,2026-06-26T02:00:00.000Z,2026-06-26T04:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_OCE,Reload Elite Series Heats,OCE,2026-06-26T08:00:00.000Z,2026-06-26T11:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_OCE,Duos Ranked Cup (Zero Build),OCE,2026-06-26T08:00:00.000Z,2026-06-26T11:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_OCE,Reload Elite Series Heats,OCE,2026-06-26T08:00:01.000Z,2026-06-26T11:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_OCE,Reload Elite Series Heats,OCE,2026-06-26T08:12:00.000Z,2026-06-26T11:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_OCE,Reload Elite Series Heats,OCE,2026-06-26T08:12:01.000Z,2026-06-26T11:12:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_ASIA,Reload Elite Series Heats,ASIA,2026-06-26T09:00:00.000Z,2026-06-26T12:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_ASIA,Duos Ranked Cup (Zero Build),ASIA,2026-06-26T09:00:00.000Z,2026-06-26T12:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_ASIA,Reload Elite Series Heats,ASIA,2026-06-26T09:00:01.000Z,2026-06-26T12:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_ASIA,Reload Elite Series Heats,ASIA,2026-06-26T09:12:00.000Z,2026-06-26T12:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_ASIA,Reload Elite Series Heats,ASIA,2026-06-26T09:12:01.000Z,2026-06-26T12:12:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_ME,Reload Elite Series Heats,ME,2026-06-26T15:00:00.000Z,2026-06-26T18:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_ME,Duos Ranked Cup (Zero Build),ME,2026-06-26T15:00:00.000Z,2026-06-26T18:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_ME,Reload Elite Series Heats,ME,2026-06-26T15:00:01.000Z,2026-06-26T18:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_ME,Reload Elite Series Heats,ME,2026-06-26T15:12:00.000Z,2026-06-26T18:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_ME,Reload Elite Series Heats,ME,2026-06-26T15:12:01.000Z,2026-06-26T18:12:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_EU,Reload Elite Series Heats,EU,2026-06-26T17:00:00.000Z,2026-06-26T20:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_EU,Duos Ranked Cup (Zero Build),EU,2026-06-26T17:00:00.000Z,2026-06-26T20:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_EU,Reload Elite Series Heats,EU,2026-06-26T17:00:01.000Z,2026-06-26T20:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_EU,Reload Elite Series Heats,EU,2026-06-26T17:12:00.000Z,2026-06-26T20:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_EU,Reload Elite Series Heats,EU,2026-06-26T17:12:01.000Z,2026-06-26T20:12:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_BR,Reload Elite Series Heats,BR,2026-06-26T21:00:00.000Z,2026-06-27T00:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_BR,Duos Ranked Cup (Zero Build),BR,2026-06-26T21:00:00.000Z,2026-06-27T00:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_BR,Reload Elite Series Heats,BR,2026-06-26T21:00:01.000Z,2026-06-27T00:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_BR,Reload Elite Series Heats,BR,2026-06-26T21:12:00.000Z,2026-06-27T00:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_BR,Reload Elite Series Heats,BR,2026-06-26T21:12:01.000Z,2026-06-27T00:12:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_NAC,Reload Elite Series Heats,NAC,2026-06-26T23:00:00.000Z,2026-06-27T02:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_NAC,Duos Ranked Cup (Zero Build),NAC,2026-06-26T23:00:00.000Z,2026-06-27T02:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_NAC,Reload Elite Series Heats,NAC,2026-06-26T23:00:01.000Z,2026-06-27T02:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_NAC,Reload Elite Series Heats,NAC,2026-06-26T23:12:00.000Z,2026-06-27T02:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_NAC,Reload Elite Series Heats,NAC,2026-06-26T23:12:01.000Z,2026-06-27T02:12:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat1_NAW,Reload Elite Series Heats,NAW,2026-06-27T01:00:00.000Z,2026-06-27T04:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuosZB_NAW,Duos Ranked Cup (Zero Build),NAW,2026-06-27T01:00:00.000Z,2026-06-27T04:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat2_NAW,Reload Elite Series Heats,NAW,2026-06-27T01:00:01.000Z,2026-06-27T04:00:01.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat3_NAW,Reload Elite Series Heats,NAW,2026-06-27T01:12:00.000Z,2026-06-27T04:12:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Heat4_NAW,Reload Elite Series Heats,NAW,2026-06-27T01:12:01.000Z,2026-06-27T04:12:01.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_OCE,Mobile Battle Royale Victory Cup,OCE,2026-06-27T03:00:00.000Z,2026-06-27T04:30:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_ASIA,Mobile Battle Royale Victory Cup,ASIA,2026-06-27T04:00:00.000Z,2026-06-27T05:30:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_OCE,Mobile Series Qualifier,OCE,2026-06-27T06:00:00.000Z,2026-06-27T07:20:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_OCE,FNCS Division 1,OCE,2026-06-27T08:00:00.000Z,2026-06-27T10:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_OCE,Duos Ranked Cup (Reload),OCE,2026-06-27T08:00:00.000Z,2026-06-27T11:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_ASIA,Mobile Series Qualifier,ASIA,2026-06-27T08:00:00.000Z,2026-06-27T09:20:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ASIA,FNCS Division 1,ASIA,2026-06-27T09:00:00.000Z,2026-06-27T11:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_ASIA,Duos Ranked Cup (Reload),ASIA,2026-06-27T09:00:00.000Z,2026-06-27T12:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_ME,Mobile Battle Royale Victory Cup,ME,2026-06-27T10:00:00.000Z,2026-06-27T11:30:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_EU,Mobile Battle Royale Victory Cup,EU,2026-06-27T12:00:00.000Z,2026-06-27T13:30:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_ME,Mobile Series Qualifier,ME,2026-06-27T14:00:00.000Z,2026-06-27T15:20:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ME,FNCS Division 1,ME,2026-06-27T15:00:00.000Z,2026-06-27T17:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_ME,Duos Ranked Cup (Reload),ME,2026-06-27T15:00:00.000Z,2026-06-27T18:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_EU,Mobile Series Qualifier,EU,2026-06-27T16:00:00.000Z,2026-06-27T17:20:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_BR,Mobile Battle Royale Victory Cup,BR,2026-06-27T16:00:00.000Z,2026-06-27T17:30:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_EU,FNCS Division 1,EU,2026-06-27T17:00:00.000Z,2026-06-27T19:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_EU,Duos Ranked Cup (Reload),EU,2026-06-27T17:00:00.000Z,2026-06-27T20:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_NAC,Mobile Battle Royale Victory Cup,NAC,2026-06-27T18:00:00.000Z,2026-06-27T19:30:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_NAW,Mobile Battle Royale Victory Cup,NAW,2026-06-27T20:00:00.000Z,2026-06-27T21:30:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_BR,Mobile Series Qualifier,BR,2026-06-27T20:00:00.000Z,2026-06-27T21:20:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_BR,FNCS Division 1,BR,2026-06-27T21:00:00.000Z,2026-06-27T23:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_BR,Duos Ranked Cup (Reload),BR,2026-06-27T21:00:00.000Z,2026-06-28T00:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_NAC,Mobile Series Qualifier,NAC,2026-06-27T22:00:00.000Z,2026-06-27T23:20:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAC,FNCS Division 1,NAC,2026-06-27T23:00:00.000Z,2026-06-28T01:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_NAC,Duos Ranked Cup (Reload),NAC,2026-06-27T23:00:00.000Z,2026-06-28T02:00:00.000Z,upcoming
+epicgames_S41_MobileSeriesCupQualAll_NAW,Mobile Series Qualifier,NAW,2026-06-28T00:00:00.000Z,2026-06-28T01:20:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAW,FNCS Division 1,NAW,2026-06-28T01:00:00.000Z,2026-06-28T03:40:00.000Z,upcoming
+epicgames_S41_RankedCupReloadDuos_NAW,Duos Ranked Cup (Reload),NAW,2026-06-28T01:00:00.000Z,2026-06-28T04:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_OCE,Mobile Battle Royale Victory Cup,OCE,2026-06-28T07:00:00.000Z,2026-06-28T08:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_OCE,Reload Elite Series Finals,OCE,2026-06-28T08:00:00.000Z,2026-06-28T11:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_OCE,Duos Ranked Cup (Battle Royale),OCE,2026-06-28T08:00:00.000Z,2026-06-28T11:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_ASIA,Mobile Battle Royale Victory Cup,ASIA,2026-06-28T08:00:00.000Z,2026-06-28T09:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_ASIA,Reload Elite Series Finals,ASIA,2026-06-28T09:00:00.000Z,2026-06-28T12:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_ASIA,Duos Ranked Cup (Battle Royale),ASIA,2026-06-28T09:00:00.000Z,2026-06-28T12:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_ME,Mobile Battle Royale Victory Cup,ME,2026-06-28T14:00:00.000Z,2026-06-28T15:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_EU,Reload Elite Series Finals,EU,2026-06-28T15:00:00.000Z,2026-06-28T18:20:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_ME,Reload Elite Series Finals,ME,2026-06-28T15:00:00.000Z,2026-06-28T18:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_ME,Duos Ranked Cup (Battle Royale),ME,2026-06-28T15:00:00.000Z,2026-06-28T18:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_EU,Mobile Battle Royale Victory Cup,EU,2026-06-28T16:00:00.000Z,2026-06-28T17:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_EU,Duos Ranked Cup (Battle Royale),EU,2026-06-28T17:00:00.000Z,2026-06-28T20:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_BR,Mobile Battle Royale Victory Cup,BR,2026-06-28T20:00:00.000Z,2026-06-28T21:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_NAC,Reload Elite Series Finals,NAC,2026-06-28T21:00:00.000Z,2026-06-29T00:20:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_BR,Reload Elite Series Finals,BR,2026-06-28T21:00:00.000Z,2026-06-29T00:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_BR,Duos Ranked Cup (Battle Royale),BR,2026-06-28T21:00:00.000Z,2026-06-29T00:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_NAC,Mobile Battle Royale Victory Cup,NAC,2026-06-28T22:00:00.000Z,2026-06-28T23:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_NAC,Duos Ranked Cup (Battle Royale),NAC,2026-06-28T23:00:00.000Z,2026-06-29T02:00:00.000Z,upcoming
+epicgames_S41_MobileVictoryCup_BRAll_NAW,Mobile Battle Royale Victory Cup,NAW,2026-06-29T00:00:00.000Z,2026-06-29T01:00:00.000Z,upcoming
+epicgames_S41_ReloadEliteSeries4Final_NAW,Reload Elite Series Finals,NAW,2026-06-29T01:00:00.000Z,2026-06-29T04:00:00.000Z,upcoming
+epicgames_S41_RankedCupDuos_NAW,Duos Ranked Cup (Battle Royale),NAW,2026-06-29T01:00:00.000Z,2026-06-29T04:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_OCE,FNCS Division 1,OCE,2026-07-13T08:00:00.000Z,2026-07-13T11:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_OCE,Solo Ranked Cup (Battle Royale),OCE,2026-07-13T08:00:00.000Z,2026-07-13T11:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_OCE,FNCS Division 2,OCE,2026-07-13T08:00:01.000Z,2026-07-13T11:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_OCE,FNCS Division 3,OCE,2026-07-13T08:00:02.000Z,2026-07-13T11:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ASIA,FNCS Division 1,ASIA,2026-07-13T09:00:00.000Z,2026-07-13T12:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_ASIA,Solo Ranked Cup (Battle Royale),ASIA,2026-07-13T09:00:00.000Z,2026-07-13T12:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_ASIA,FNCS Division 2,ASIA,2026-07-13T09:00:01.000Z,2026-07-13T12:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_ASIA,FNCS Division 3,ASIA,2026-07-13T09:00:02.000Z,2026-07-13T12:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_ME,FNCS Division 1,ME,2026-07-13T15:00:00.000Z,2026-07-13T18:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_ME,Solo Ranked Cup (Battle Royale),ME,2026-07-13T15:00:00.000Z,2026-07-13T18:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_ME,FNCS Division 2,ME,2026-07-13T15:00:01.000Z,2026-07-13T18:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_ME,FNCS Division 3,ME,2026-07-13T15:00:02.000Z,2026-07-13T18:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_EU,FNCS Division 1,EU,2026-07-13T17:00:00.000Z,2026-07-13T20:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_EU,Solo Ranked Cup (Battle Royale),EU,2026-07-13T17:00:00.000Z,2026-07-13T20:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_EU,FNCS Division 2,EU,2026-07-13T17:00:01.000Z,2026-07-13T20:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_EU,FNCS Division 3,EU,2026-07-13T17:00:02.000Z,2026-07-13T20:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division4_EU,FNCS Division 4,EU,2026-07-13T17:00:03.000Z,2026-07-13T20:00:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division5_EU,FNCS Division 5,EU,2026-07-13T17:00:04.000Z,2026-07-13T20:00:04.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_BR,FNCS Division 1,BR,2026-07-13T21:00:00.000Z,2026-07-14T00:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_BR,Solo Ranked Cup (Battle Royale),BR,2026-07-13T21:00:00.000Z,2026-07-14T00:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_BR,FNCS Division 2,BR,2026-07-13T21:00:01.000Z,2026-07-14T00:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_BR,FNCS Division 3,BR,2026-07-13T21:00:02.000Z,2026-07-14T00:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAC,FNCS Division 1,NAC,2026-07-13T23:00:00.000Z,2026-07-14T02:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_NAC,Solo Ranked Cup (Battle Royale),NAC,2026-07-13T23:00:00.000Z,2026-07-14T02:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_NAC,FNCS Division 2,NAC,2026-07-13T23:00:01.000Z,2026-07-14T02:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_NAC,FNCS Division 3,NAC,2026-07-13T23:00:02.000Z,2026-07-14T02:00:02.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division4_NAC,FNCS Division 4,NAC,2026-07-13T23:00:03.000Z,2026-07-14T02:00:03.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division5_NAC,FNCS Division 5,NAC,2026-07-13T23:00:04.000Z,2026-07-14T02:00:04.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_NAW,FNCS Division 1,NAW,2026-07-14T01:00:00.000Z,2026-07-14T04:00:00.000Z,upcoming
+epicgames_S41_RankedCupSolo_NAW,Solo Ranked Cup (Battle Royale),NAW,2026-07-14T01:00:00.000Z,2026-07-14T04:00:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division2_NAW,FNCS Division 2,NAW,2026-07-14T01:00:01.000Z,2026-07-14T04:00:01.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division3_NAW,FNCS Division 3,NAW,2026-07-14T01:00:02.000Z,2026-07-14T04:00:02.000Z,upcoming
+epicgames_S41_MobileTestCupAll_OCE,Mobile Test Cup,OCE,2026-07-14T07:00:00.000Z,2026-07-14T08:15:00.000Z,upcoming
+epicgames_S41_FNCSDivisionalCup_Division1_OCE,FNCS Division 1,OCE,2026-07-14T08:00:00.000Z,2026-07-14T11:00:00.000Z,upcoming
