@@ -1,4 +1,4 @@
-# Competitive Match Integrity Analyzer 
+# Competitive Match Integrity Analyzer for Fortnite
 
 A Python-based application that analyzes competitive gaming data, player reports, and performance metrics to identify suspicious behavior patterns and assist with
 tournament integrity reviews.
